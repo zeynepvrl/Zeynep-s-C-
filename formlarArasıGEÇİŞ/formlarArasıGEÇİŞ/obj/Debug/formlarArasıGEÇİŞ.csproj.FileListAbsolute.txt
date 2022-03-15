@@ -1,0 +1,11 @@
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\bin\Debug\formlarArasıGEÇİŞ.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\bin\Debug\formlarArasıGEÇİŞ.exe
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\bin\Debug\formlarArasıGEÇİŞ.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.csprojAssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.Form1.resources
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.Properties.Resources.resources
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.csproj.GenerateResource.cache
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.exe
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıGEÇİŞ\formlarArasıGEÇİŞ\obj\Debug\formlarArasıGEÇİŞ.Form2.resources
