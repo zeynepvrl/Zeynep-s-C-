@@ -1,0 +1,10 @@
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\obj\Debug\üçkod.csprojAssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\obj\Debug\üçkod.Form1.resources
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\obj\Debug\üçkod.Properties.Resources.resources
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\obj\Debug\üçkod.csproj.GenerateResource.cache
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\obj\Debug\üçkod.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\bin\Debug\üçkod.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\bin\Debug\üçkod.exe
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\bin\Debug\üçkod.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\obj\Debug\üçkod.exe
+C:\Users\zeyne\OneDrive\Masaüstü\üçkod\üçkod\obj\Debug\üçkod.pdb
