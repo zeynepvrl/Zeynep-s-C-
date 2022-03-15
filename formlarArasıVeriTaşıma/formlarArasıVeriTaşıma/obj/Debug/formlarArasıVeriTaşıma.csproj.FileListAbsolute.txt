@@ -1,0 +1,11 @@
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\bin\Debug\formlarArasıVeriTaşıma.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\bin\Debug\formlarArasıVeriTaşıma.exe
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\bin\Debug\formlarArasıVeriTaşıma.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.csprojAssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.Form1.resources
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.Form2.resources
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.Properties.Resources.resources
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.csproj.GenerateResource.cache
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.exe
+C:\Users\zeyne\OneDrive\Masaüstü\formlarArasıVeriTaşıma\formlarArasıVeriTaşıma\obj\Debug\formlarArasıVeriTaşıma.pdb
